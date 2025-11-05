@@ -5,3 +5,4 @@ description = "A curated list on AI token economics: what tokens cost, where the
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
